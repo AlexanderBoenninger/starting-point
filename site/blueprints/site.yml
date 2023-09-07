@@ -1,0 +1,76 @@
+title: Site
+
+tabs:
+  site:
+    label: Seite
+    icon: chat
+    sections:
+      pages:
+        label: Hauptseiten
+        type: pages
+        layout: cards
+        status: listed
+        image:
+          ratio: 1/1
+          cover: true
+      Drafts:
+        lable: Entwürfe
+        type: pages
+        layout: list
+        status: drafts
+      unpages:
+        label: weitere Seiten
+        type: pages
+        layout: list
+        status: unlisted
+      panelSeiten:
+        type: fields
+        fields:
+          headline:
+            label: Headline für die buttons
+            type: headline
+            numbered: false
+          bestimmterort:
+            type: button
+            width: 1/4
+            label:
+            text: "Button titel"
+            url: "{{site.url}}/panel/pages/page+subpage"
+            icon: file-document
+            theme: positive
+            open: true
+
+  footer:
+    label: Footer
+    icon: cog
+    sections:
+      general:
+        type: fields
+        fields:
+          secTitle:
+            type: text
+
+          socialmedia:
+            type: structure
+            fields:
+              smwitchone:
+                lable: Wähle dein Netzwerk aus
+                type: toggles
+                options:
+                  - Facebook
+                  - Instagram
+                  - YouTube
+                  - Anderes
+              smName:
+                label: Bezeichnung
+                type: text
+                width: 1/2
+                maxlength: 20
+                when:
+                  smwitchone: "Anderes"
+              smLink:
+                label: Account Adresse/URL
+                type: text
+                default: https://
+                help: Link zu deinem Profil
+  meta: tabs/meta/site

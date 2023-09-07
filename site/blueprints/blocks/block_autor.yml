@@ -1,0 +1,30 @@
+name: Mitglied / Autor
+
+icon: text
+
+fields:
+  rolle:
+    label: Rolle des Mitglieds
+    type: toggles
+    default: Autor
+    options:
+      - Autor
+      - Namedrop
+    help: Autor oder einfach nur ein Künstler Erwähnung
+  autor:
+    type: users
+    multiple: false
+
+  spaces_top:
+    label: Abstände
+    type: toggles
+    options:
+      - space_top
+      - space_top_medium
+
+  spaces_bottom:
+    label: Abstände
+    type: toggles
+    options:
+      - space_bottom
+      - space_bottom_medium 

@@ -1,0 +1,15 @@
+name: Link
+icon: text
+wysiwyg: true
+fields:
+  seite:
+    label: Seite
+    type: pages
+    required: true
+  bild:
+    type: files
+    multiple: false
+    required: true
+  text:
+    type: writer
+    required: true

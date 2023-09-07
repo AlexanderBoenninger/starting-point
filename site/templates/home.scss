@@ -1,0 +1,19 @@
+.opener_image {
+  position: absolute;
+  top: 0;
+}
+
+.about {
+  border-radius: 80px;
+}
+
+.artefact svg {
+  width: 40vw;
+  height: auto;
+}
+
+@media (min-width: 768px) {
+  .about {
+    border-radius: 147px;
+  }
+}

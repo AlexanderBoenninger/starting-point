@@ -1,0 +1,85 @@
+Title: Zur Schoenen Freiheit
+
+----
+
+Logo: - file://z8L3hQWnoVIeOP4z
+
+----
+
+Farben:
+
+background: '#81C188'
+text: green
+key: green
+
+----
+
+Bilder:
+
+- file://BSEeGbkZPthleY6M
+- file://wxBj5tIwDNqrLc7v
+- file://74oIPPwE9jq6TV13
+
+----
+
+Einleitung: Der Tauerntunnel ist eine wichtige Durchquerung der Berge und Transit durch den Lungau. Während des Supergau Festivals 2023 wird der Verkehr im Tunnel als Quelle für die Vibra Alpina genutzt. Mit der Installation entsteht ein Ort für ästhetische Heilanwendungen. Von weit her kommen die BesucherInnen um an den wirkungsvollen Schwingungen der Vibra Alpina zu genesen. Die Vibra Alpina kann sowohl das Ziel eines Spaziergangs in die Radstädter Alpen, als auch ein kontemplativer Zwischenstopp auf einer mehrtägigen hochalpinen Wandertour sein.
+
+----
+
+Layout: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Robots-index: 
+
+----
+
+Robots-follow: 
+
+----
+
+Robots-archive: 
+
+----
+
+Robots-imageindex: 
+
+----
+
+Robots-snippet: 
+
+----
+
+Sitemap: 0.5
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Uuid: GYFHLWg4uQqXpjW9
+
+----
+
+Introduction: 

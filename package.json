@@ -1,0 +1,32 @@
+{
+  "name": "kirby-vite-basic-kit",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "vite": "vite",
+    "uno": "unocss \"site/{snippets,templates}/**/*\" --out-file site/styles/uno.css",
+    "dev": "rm -rf public/dist && concurrently \"npm run uno -- --watch\" \"vite\"",
+    "build": "npm run uno && vite build",
+    "preview": "npm run build && npm run server"
+  },
+  "author": "arnoson",
+  "license": "MIT",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.19.3",
+    "@unocss/transformer-directives": "^0.53.4",
+    "concurrently": "^7.0.1",
+    "glob": "^10.3.3",
+    "prettier": "^2.8.4",
+    "sass": "^1.56.2",
+    "unocss": "^0.53.4",
+    "vite": "^3.0.0 || ^4.0.0",
+    "vite-plugin-kirby": "^0.1.0"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.53.3",
+    "@very-simple/components": "^0.4.0",
+    "alpinejs": "^3.12.3",
+    "embla-carousel": "^7.0.9",
+    "vanilla-lazyload": "^17.8.3"
+  }
+}

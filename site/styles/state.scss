@@ -1,0 +1,67 @@
+:root {
+  --underline: 1px;
+  --line_thick: 1px;
+  --line_thick_menu: 2;
+
+  /* __________fonts___________ */
+  --font-small: 1rem;
+  --font-normal: clamp(
+    1rem,
+    0.9122894736842105rem + 0.43855263157894725vw,
+    1.3333rem
+  );
+  --font-normal_steady: 1rem;
+  --font-medium: clamp(
+    1.3333rem,
+    1.1578526315789472rem + 0.8772368421052633vw,
+    2rem
+  );
+  --font-medium_steady: 1.3333rem;
+  --font-big: clamp(2rem, 1.473684210526316rem + 2.631578947368421vw, 4rem);
+
+  --lineHeight_1: 1.1;
+  --lineHeight_2: 1.3;
+
+  /* __________spacings___________ */
+  --space-page-margin: 0.66666rem;
+  // --space_micro: 0.33333rem;
+  // --space_mini: 0.66666rem;
+  // --space: 1rem;
+  // --space_medium: 1.3333rem;
+  // --space_big: 2.6667rem;
+  // --space_grande: 3.333rem;
+}
+
+/* 640 – 768 ???? */
+@screen sm {
+  :root {
+    --space-page-margin: 1rem;
+  }
+}
+
+/* 1024 – 1280 Medium */
+@screen lg {
+  :root {
+    // --font-big: 2.66666rem;
+    // --font-grande: 2.66666rem;
+
+    --space-page-margin: 2rem;
+    // --line_thick_menu: 3;
+  }
+}
+
+// /* 1280 */
+// @screen xl {
+//   :root {
+//     --space-page-margin: 2rem;
+//   }
+// }
+
+/* 1536px Desktop */
+@screen 2xl {
+  :root {
+    // --font-medium: 2.66666rem;
+    // --font-big: 4rem;
+    --space-page-margin: 5rem;
+  }
+}

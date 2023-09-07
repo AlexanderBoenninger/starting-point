@@ -1,0 +1,40 @@
+name: Links
+
+icon: link
+
+fields:
+  thema:
+    label: Links
+    type: structure
+    fields:
+      titel:
+        type: text
+      entries:
+        type: structure
+        fields:
+          choose:
+            type: toggles
+            options:
+              - Link
+              - E-Mail
+          link:
+            type: url
+            when:
+              choose: Link
+          mail:
+            type: email
+            when:
+              choose: E-Mail
+  spaces_top:
+    label: Abstände
+    type: toggles
+    options:
+      - space_top
+      - space_top_medium
+
+  spaces_bottom:
+    label: Abstände
+    type: toggles
+    options:
+      - space_bottom
+      - space_bottom_medium 

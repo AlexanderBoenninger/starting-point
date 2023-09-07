@@ -1,0 +1,68 @@
+/* layer: preflights */
+*,::before,::after{--un-rotate:0;--un-rotate-x:0;--un-rotate-y:0;--un-rotate-z:0;--un-scale-x:1;--un-scale-y:1;--un-scale-z:1;--un-skew-x:0;--un-skew-y:0;--un-translate-x:0;--un-translate-y:0;--un-translate-z:0;--un-pan-x: ;--un-pan-y: ;--un-pinch-zoom: ;--un-scroll-snap-strictness:proximity;--un-ordinal: ;--un-slashed-zero: ;--un-numeric-figure: ;--un-numeric-spacing: ;--un-numeric-fraction: ;--un-border-spacing-x:0;--un-border-spacing-y:0;--un-ring-offset-shadow:0 0 rgba(0,0,0,0);--un-ring-shadow:0 0 rgba(0,0,0,0);--un-shadow-inset: ;--un-shadow:0 0 rgba(0,0,0,0);--un-ring-inset: ;--un-ring-offset-width:0px;--un-ring-offset-color:#fff;--un-ring-width:0px;--un-ring-color:rgba(147,197,253,0.5);--un-blur: ;--un-brightness: ;--un-contrast: ;--un-drop-shadow: ;--un-grayscale: ;--un-hue-rotate: ;--un-invert: ;--un-saturate: ;--un-sepia: ;--un-backdrop-blur: ;--un-backdrop-brightness: ;--un-backdrop-contrast: ;--un-backdrop-grayscale: ;--un-backdrop-hue-rotate: ;--un-backdrop-invert: ;--un-backdrop-opacity: ;--un-backdrop-saturate: ;--un-backdrop-sepia: ;}::backdrop{--un-rotate:0;--un-rotate-x:0;--un-rotate-y:0;--un-rotate-z:0;--un-scale-x:1;--un-scale-y:1;--un-scale-z:1;--un-skew-x:0;--un-skew-y:0;--un-translate-x:0;--un-translate-y:0;--un-translate-z:0;--un-pan-x: ;--un-pan-y: ;--un-pinch-zoom: ;--un-scroll-snap-strictness:proximity;--un-ordinal: ;--un-slashed-zero: ;--un-numeric-figure: ;--un-numeric-spacing: ;--un-numeric-fraction: ;--un-border-spacing-x:0;--un-border-spacing-y:0;--un-ring-offset-shadow:0 0 rgba(0,0,0,0);--un-ring-shadow:0 0 rgba(0,0,0,0);--un-shadow-inset: ;--un-shadow:0 0 rgba(0,0,0,0);--un-ring-inset: ;--un-ring-offset-width:0px;--un-ring-offset-color:#fff;--un-ring-width:0px;--un-ring-color:rgba(147,197,253,0.5);--un-blur: ;--un-brightness: ;--un-contrast: ;--un-drop-shadow: ;--un-grayscale: ;--un-hue-rotate: ;--un-invert: ;--un-saturate: ;--un-sepia: ;--un-backdrop-blur: ;--un-backdrop-brightness: ;--un-backdrop-contrast: ;--un-backdrop-grayscale: ;--un-backdrop-hue-rotate: ;--un-backdrop-invert: ;--un-backdrop-opacity: ;--un-backdrop-saturate: ;--un-backdrop-sepia: ;}
+
+  			:root {
+          --color-black: #000000;
+--color-blue: #7F9FB8;
+        }
+  		
+/* layer: default */
+.absolute{position:absolute;}
+.fixed{position:fixed;}
+.z-3{z-index:3;}
+.grid{display:grid;}
+.col-span-11{grid-column:span 11/span 11;}
+.col-span-full{grid-column:1/-1;}
+.row-span-1{grid-row:span 1/span 1;}
+.row-span-2{grid-row:span 2/span 2;}
+.col-start-2{grid-column-start:2;}
+.row-start-2{grid-row-start:2;}
+.row-start-4{grid-row-start:4;}
+.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr));}
+.grid-cols-6{grid-template-columns:repeat(6,minmax(0,1fr));}
+.m-2rem{margin:2rem;}
+.mb-2rem,
+.mb-8{margin-bottom:2rem;}
+.mb-6{margin-bottom:1.5rem;}
+.mt-2{margin-top:0.5rem;}
+.box-border{box-sizing:border-box;}
+.block,
+[block=""]{display:block;}
+.hidden{display:none;}
+.max-w-30rem{max-width:30rem;}
+.w-full{width:100%;}
+.resize{resize:both;}
+.content-end{align-content:flex-end;}
+.self-start{align-self:flex-start;}
+.self-center{align-self:center;}
+.rounded-lg{border-radius:0.5rem;}
+[stroke-width~="\32 "]{stroke-width:2px;}
+.object-cover{object-fit:cover;}
+.px{padding-left:1rem;padding-right:1rem;}
+.pb-7rem{padding-bottom:7rem;}
+.pt-3rem{padding-top:3rem;}
+.text-center{text-align:center;}
+.uppercase{text-transform:uppercase;}
+.no-underline{text-decoration:none;}
+@media (min-width: 640px){
+.sm-col-span-4{grid-column:span 4/span 4;}
+.sm-col-span-6{grid-column:span 6/span 6;}
+.sm-row-span-1{grid-row:span 1/span 1;}
+.sm-col-start-3{grid-column-start:3;}
+.sm-col-start-9{grid-column-start:9;}
+.sm-row-start-1{grid-row-start:1;}
+.sm-mb-5rem{margin-bottom:5rem;}
+.sm-mt-3rem{margin-top:3rem;}
+.sm-block{display:block;}
+.sm-hidden{display:none;}
+.sm-pt-0\.9rem{padding-top:0.9rem;}
+}
+@media (min-width: 768px){
+.md-pt-1\.35rem{padding-top:1.35rem;}
+}
+@media (min-width: 1280px){
+.xl-col-span-4{grid-column:span 4/span 4;}
+.xl-col-start-2{grid-column-start:2;}
+.xl-mt-2rem{margin-top:2rem;}
+.xl-pt-2\.1rem{padding-top:2.1rem;}
+}

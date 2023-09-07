@@ -1,0 +1,80 @@
+Title: vibra alpina
+
+----
+
+Logo: - file://ptU966Ubw8AGfs5K
+
+----
+
+Farben:
+
+background: '#7F9FB8'
+text: blau
+key: blue
+
+----
+
+Bilder:
+
+- file://xUtLQQWwbtvzz4rl
+- file://A3dbnnAglZl3C7V9
+
+----
+
+Einleitung: Der Tauerntunnel ist eine wichtige Durchquerung der Berge und Transit durch den Lungau. Während des Supergau Festivals 2023 wird der Verkehr im Tunnel als Quelle für die Vibra Alpina genutzt. Mit der Installation entsteht ein Ort für ästhetische Heilanwendungen. Von weit her kommen die BesucherInnen um an den wirkungsvollen Schwingungen der Vibra Alpina zu genesen. Die Vibra Alpina kann sowohl das Ziel eines Spaziergangs in die Radstädter Alpen, als auch ein kontemplativer Zwischenstopp auf einer mehrtägigen hochalpinen Wandertour sein.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://KwEBMerCe29jOnll"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9cbc0b30-34b6-4907-a4b4-0d949ddb06c2","isHidden":false,"type":"block_bild"}],"id":"0790a043-c31c-45d8-971a-df71f7a74e4c","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://HtS8dJBONPHHZsaP"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7379a8b8-4be1-4e8c-b242-376b76aee8ab","isHidden":false,"type":"block_bild"}],"id":"abaa4528-3074-43e6-9f77-e6690202eb21","width":"1/2"}],"id":"3bd572fc-2d33-443c-a233-31e8a0ec3581"},{"attrs":[],"columns":[{"blocks":[],"id":"b762bea8-5eb4-4af2-8f2a-1ef5827c35aa","width":"1/4"},{"blocks":[{"content":{"location":"kirby","image":["file://HtS8dJBONPHHZsaP"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"f4357f14-1d6b-4f08-bb65-1e32c7a12868","isHidden":false,"type":"block_bild"}],"id":"798a7c54-6d10-4650-a028-4da44698f0d0","width":"1/4"},{"blocks":[{"content":{"text":"<p>Der Tauerntunnel ist eine wichtige Durchquerung der Berge und Transit durch den Lungau. Während des Supergau Festivals 2023 wird der Verkehr im Tunnel als Quelle für die Vibra Alpina genutzt. Mit der Installation entsteht ein Ort für ästhetische Heilanwendungen. Von weit her kommen die BesucherInnen um an den wirkungsvollen <a href=\"https://google.de\" title=\"google\" rel=\"noreferrer\">Schwingungen</a> der Vibra Alpina zu genesen. Die Vibra Alpina kann sowohl das Ziel eines Spaziergangs in die Radstädter Alpen, als auch ein kontemplativer Zwischenstopp auf einer mehrtägigen hochalpinen Wandertour sein.</p>"},"id":"00a8a684-4b7d-4c03-9ac4-7714138e005d","isHidden":false,"type":"block_text"}],"id":"f625b402-f14d-44fa-85df-c5950b8748eb","width":"1/2"}],"id":"e203d9ce-26b9-4cd6-9008-972a8ff8e35d"},{"attrs":[],"columns":[{"blocks":[],"id":"b590d590-3855-4220-94b5-adc0a38a435e","width":"1/1"}],"id":"31a7d060-94d6-46c1-9ba6-21a27997f367"},{"attrs":[],"columns":[{"blocks":[{"content":{"seite":["page://Y3DSRoTDLJ63GpcX"],"bild":["file://xUtLQQWwbtvzz4rl"],"text":"<p>Anwendung 1</p>"},"id":"71983ce8-3fea-4410-963e-2c1ab565431d","isHidden":false,"type":"block_link"},{"content":{"seite":["page://cbxZaO88PcfngBl0"],"bild":["file://A3dbnnAglZl3C7V9"],"text":"<p>Anwednung 2</p>"},"id":"d4e995a4-1710-4277-a35c-eef0deeee1d6","isHidden":false,"type":"block_link"}],"id":"d2b9a9ba-5fd8-463e-a51b-78b4a5625e49","width":"1/1"}],"id":"9675c8e1-2541-4357-b450-814418270c18"}]
+
+----
+
+Meta-description: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Robots-index: 
+
+----
+
+Robots-follow: 
+
+----
+
+Robots-archive: 
+
+----
+
+Robots-imageindex: 
+
+----
+
+Robots-snippet: 
+
+----
+
+Sitemap: 0.5
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Uuid: mIGUCp77cnsUG97l

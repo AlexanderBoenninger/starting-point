@@ -1,0 +1,30 @@
+title: File
+accept: image/jpeg, image/png, image/jpg,
+icon: 📷
+
+columns:
+  - width: 1/2
+    sections:
+      general:
+        type: fields
+        fields:
+          cover:
+            label: Projekt Cover
+            type: toggle
+            text:
+              - "nop"
+              - "Jap"
+          alt:
+            type: text
+          credits:
+            label: Name der Fotografin_in
+            type: text
+            width: 1/2
+          creditslink:
+            label: URL der Fotografin_in
+            type: url
+            width: 1/2
+          text:
+            lable: Bildbeschreibung
+            type: textarea
+            buttons: false

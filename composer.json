@@ -1,0 +1,18 @@
+{
+  "name": "arnoson/kirby-vite-multi-page-kit",
+  "description": "A multi-page Kirby CMS + Vite starter kit",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "getkirby/cms": "^3.6",
+    "arnoson/kirby-vite": "^3.0.0",
+    "moritzebeling/kirby-panel-button": "^1.0",
+    "fabianmichael/kirby-meta": "@dev",
+    "sylvainjule/color-palette": "^1.0"
+  },
+  "config": {
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  }
+}

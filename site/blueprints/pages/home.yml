@@ -1,0 +1,19 @@
+title: Start
+options:
+  delete: false
+
+tabs:
+  Inhalt:
+    label: Die Seite
+    icon: start
+    sections:
+      fields:
+        type: fields
+        fields:
+          opener_image:
+            label: Bild der Startseite
+            type: files
+            query: site.find('works').children.images
+          introduction:
+            label: Text
+            type: textarea

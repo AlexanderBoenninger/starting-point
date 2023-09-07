@@ -1,0 +1,17 @@
+title: Admin
+
+
+
+fields:
+  projekte:
+    type: pages
+    query: site.find('mitglieder')
+  Mitgliedsseite:
+    type: button
+    width: 1/2
+    label: Zum Inhalt des Account
+    text: "{{user.name}}" 
+    url: "http://localhost:8888/panel/pages/mitglieder+user-{{ user.id }}"
+    icon: account
+    theme: positive
+    open: true

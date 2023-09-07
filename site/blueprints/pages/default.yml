@@ -1,0 +1,41 @@
+title: Allgemein
+options:
+  delete: false
+
+tabs:
+  Inhalt:
+    label: Die Seite
+    icon: start
+    sections:
+      fields:
+        type: fields
+        fields:
+          introduction:
+            label: Text
+            type: textarea
+  meta:
+    label: Meta Daten
+    icon: search
+    columns:
+      left:
+        width: 2/3
+        sections:
+          l-fields:
+            type: fields
+            fields:
+              generall: fields/meta/general-group
+              robots: fields/meta/robots-group
+              sitemap: fields/meta/sitemap-priority
+
+      right:
+        width: 1/3
+        sections:
+          sharepreviewsection: sections/meta/share-preview
+          og-files: sections/meta/files
+
+          r-fields:
+            type: fields
+            fields:
+              gap:
+                type: gap
+              og: fields/meta/opengraph-group

@@ -1,0 +1,25 @@
+Cover: true
+
+----
+
+Alt: 
+
+----
+
+Credits: 
+
+----
+
+Creditslink: 
+
+----
+
+Text: 
+
+----
+
+Uuid: 74oIPPwE9jq6TV13
+
+----
+
+Template: file

@@ -1,0 +1,78 @@
+Title: About
+
+----
+
+Opener-image: - file://VqHTJJQjfnrvtZb9
+
+----
+
+Einleitung: Der Tauerntunnel ist eine wichtige Durchquerung der Berge und Transit durch den Lungau. Während des Supergau Festivals 2023 wird der Verkehr im Tunnel als Quelle für die Vibra Alpina genutzt. Mit der Installation entsteht ein Ort für ästhetische Heilanwendungen. Von weit her kommen die BesucherInnen um an den wirkungsvollen Schwingungen der Vibra Alpina zu genesen. Die Vibra Alpina kann sowohl das Ziel eines Spaziergangs in die Radstädter Alpen, als auch ein kontemplativer Zwischenstopp auf einer mehrtägigen hochalpinen Wandertour sein.
+
+----
+
+Adresse: <p>Irgendwo in Str. 3 </p><p>40329 Essen</p>
+
+----
+
+Team:
+
+- 
+  name: 'Meriel Brütting '
+  mail: ""
+  web: https://google.de
+- 
+  name: Julia Rautenhaus
+  mail: info@JuliaRautenhaus.de
+  web: ""
+
+----
+
+Mail: info@kurortkuratorium.de
+
+----
+
+Meta-description: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-canonical-url: 
+
+----
+
+Robots-index: 
+
+----
+
+Robots-follow: 
+
+----
+
+Robots-archive: 
+
+----
+
+Robots-imageindex: 
+
+----
+
+Robots-snippet: 
+
+----
+
+Og-title: 
+
+----
+
+Og-description: 
+
+----
+
+Og-image: 
+
+----
+
+Uuid: 4USsquiiQqtfz4Fv
